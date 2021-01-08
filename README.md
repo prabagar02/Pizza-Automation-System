@@ -2,7 +2,7 @@
 > Incorporates the selenium library for web scraping.
 
 # Collaborators
-[Prabagar Sivakumar](https://github.com/prabagar02)
+[Prabagar Sivakumar](https://github.com/prabagar02)\
 [Sagar Singh Punn](https://github.com/singh13sagar)
 
 ## Executing the program
